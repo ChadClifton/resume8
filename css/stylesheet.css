@@ -171,6 +171,7 @@ footer {
   animation-iteration-count: infinite;
 }
 
+/* Responsiveness */
 @media only screen and (min-width: 600px) {
   
 }
